@@ -1,0 +1,101 @@
+body {
+
+
+}
+
+
+
+/*Start Bread Crumb*/
+
+
+.breadcrumb {
+    padding:10px 0;
+    margin:0
+}
+
+.breadcrumb-hold {
+
+	background-color: #F5F5F5;
+	font-size: 18px;
+	
+}
+/*End Bread Crumb*/
+
+/*Start About Us Intro*/
+
+  .about-us {
+
+  	padding: 70px 0 ;
+  }
+
+ .about-us h1 {
+
+    font-family:'Raleway', sans-serif;
+    font-size: 62px;
+ 	font-weight: bold;
+ 	letter-spacing: -3px;
+ 	margin-top: -30px;
+ } 
+ .about-us hr {
+    width:70%
+}
+
+.about-us p {
+
+	 font-family:'Raleway', sans-serif;
+}
+
+/*End About Us Intro*/
+
+
+/* Start About Features*/
+
+ .about-features {
+
+ 	 padding-bottom: 70px;
+ 	
+ }
+
+ .about-features h3 {
+
+ 	font-weight: bold;
+ 	  font-family:'Raleway', sans-serif;
+ }
+
+  .about-features p {
+
+  	 font-family:'Raleway', sans-serif;
+  	 margin-bottom: 20px;
+  }
+
+/*End About Features*/
+
+/*Start About CEO*/
+
+ .about-ceo {
+
+ 	background-color: #EEE;
+ 	padding-top: 50px;
+ }
+
+ .about-ceo p {
+
+ 	line-height: 1.8;
+ 	font-family:'Raleway', sans-serif;
+ 	margin-bottom: 30px;
+
+ }
+
+ .about-ceo h2 {
+ 
+    font-family:'Raleway', sans-serif;
+    font-weight: bold;
+    margin-bottom: 20px;
+ } 
+
+ .about-ceo .btn {
+
+ 	margin-bottom: 40px;
+ }
+/*End About CEO*/
+
